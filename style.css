@@ -12,9 +12,9 @@
 
 /*}*/
 
-.body {
+body {
     font-family: 'Rubik', serif;
-    font-size: 48px;
+    font-size: 24px;
 }
 
 .navbar {
@@ -60,11 +60,10 @@
     left: 0;
     min-width: 100%;
     min-height: 3px;
-    
 }
 
-.passion{
-    text-align:center;
+.passion {
+    text-align: center;
 }
 
 .section {
@@ -90,8 +89,8 @@
 .footer {
     background-color: #D62F01;
     border-color: #D62F01;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .sponsor {
@@ -101,8 +100,6 @@
     margin-right: 1em;
     margin-bottom: 0.5em;
 }
-
-
 
 #social ul {
     clear: left;
@@ -135,6 +132,8 @@
 }
 
 p {
+    font-family: 'Rubik', serif;
+    font-size: 24px;
     color: white;
 }
 
@@ -142,6 +141,7 @@ p {
     height: 500px;
 }
 
-.text-top-image {
+.burgerMessage {
     z-index: 100;
+    margin: auto;
 }
