@@ -145,3 +145,7 @@ p {
     z-index: 100;
     margin: auto;
 }
+
+.loc{
+    color:black;
+}
